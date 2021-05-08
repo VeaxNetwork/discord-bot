@@ -1,0 +1,11 @@
+{
+    "kitmap": {
+        "faction_top_1": "$20 Buycraft",
+        "faction_top_2": "$15 Buycraft",
+        "faction_top_3": "$10 Buycraft",
+        "top_kills_1": "$10 Buycraft",
+        "top_kills_2": "$8 Buycraft",
+        "top_kills_3": "$5 Buycraft",
+        "test": ""
+    }
+}
